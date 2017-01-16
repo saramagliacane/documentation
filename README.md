@@ -142,3 +142,9 @@ Symbolic part:
 ML challenge part:
 - Baseline with song names: (midi_song_names x dbpedia+MB_song_names) <- find best matches here (link prediction / entity resolution task)
 - "Identity problem": linking musical pieces to particular subsets of suites / the whole suite?
+
+
+## MIDI to genre related work
+- SW - Classifies MIDI files into genres using only harmonic structure. http://github.com/irealva/music-genre-classifier
+- Publication - "Classification of Musical Playing Styles using MIDI
+Information": http://cs229.stanford.edu/proj2014/Chet%20Gnegy,Classification%20Of%20Musical%20Playing%20Styles.pdf
